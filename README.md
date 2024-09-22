@@ -68,4 +68,3 @@ For future work, we could:
 
 Feel free to clone the repository, explore the code, and run the models on your own!
 
-![BankMark](https://www.researchgate.net/profile/Ahmed-Mohamed-Zaki/publication/376585755/figure/fig1/AS:11431281214077273@1703351290260/Integration-of-AI-in-Bank-Term-Deposit-Subscriptions.png)
