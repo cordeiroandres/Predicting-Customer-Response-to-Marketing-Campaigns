@@ -55,8 +55,6 @@ We implemented and compared four machine learning models: **Logistic Regression 
 ### **Conclusion:**
 The **Logistic Regression** model performed the best overall, providing a good balance between accuracy and precision, making it ideal for predicting whether a customer will subscribe to a term deposit. However, if higher recall is desired, **Decision Trees** could be a better option due to their ability to capture more positive cases.
 
-![BankMark](https://www.researchgate.net/profile/Ahmed-Mohamed-Zaki/publication/376585755/figure/fig1/AS:11431281214077273@1703351290260/Integration-of-AI-in-Bank-Term-Deposit-Subscriptions.png)
-
 ![BankMarket](https://media.assettype.com/analyticsinsight%2Fimport%2Fwp-content%2Fuploads%2F2024%2F03%2FPredicting-Bank-Deposit-Subscriptions-with-ML-and-Analytics.jpg?w=768&auto=format%2Ccompress&fit=max)
 ---
 
@@ -69,3 +67,5 @@ For future work, we could:
 ---
 
 Feel free to clone the repository, explore the code, and run the models on your own!
+
+![BankMark](https://www.researchgate.net/profile/Ahmed-Mohamed-Zaki/publication/376585755/figure/fig1/AS:11431281214077273@1703351290260/Integration-of-AI-in-Bank-Term-Deposit-Subscriptions.png)
