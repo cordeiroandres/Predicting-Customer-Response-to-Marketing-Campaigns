@@ -61,8 +61,7 @@ The **Logistic Regression** model performed the best overall, providing a good b
 ## **Next Steps**
 For future work, we could:
 - Experiment with **ensemble methods** such as **Random Forests** or **Gradient Boosting** to improve model performance.
-- Perform **hyperparameter tuning** using grid search to optimize each model's parameters.
-- Incorporate **additional features** or use feature engineering to extract more meaningful insights.
+
 
 ---
 
